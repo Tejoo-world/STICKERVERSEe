@@ -1,0 +1,6 @@
+{
+  "name": "Stickerverse",
+  "description": "Infinite real-time GIPHY live sticker browser with custom search expansion, smart collections, sharing, and saving capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
